@@ -125,7 +125,6 @@ public:
             first_run = false;
             std::cout<<"欢迎使用弹药计算器"<<std::endl;
             std::cout<<"请输入'1'或者'2'表示'实弹'和'空包弹'此消息不再提醒"<<std::endl;
-            std::cout<<"手机预言尚未完成，不要使用，概率计算存在问题，不要相信"<<std::endl;
             std::cout<<"回车以继续"<<std::endl;
             system("pause");
         }
